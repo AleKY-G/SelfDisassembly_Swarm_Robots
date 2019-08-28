@@ -13,8 +13,11 @@ Each robot will behave different according to their position in the reference im
 * If the color is blue, the robot doesn't move at all.
 * If the color is green, the robot will escape from the light.
 * If the color is red, the robot will get near to the light.
-    
-[Example figures](imgs/experimentos.png)
+
+<p align="center">
+  <img src="imgs/experimentos.png" width="350" title="Example figures">
+</p>
+
 
 
 ## Getting Started
